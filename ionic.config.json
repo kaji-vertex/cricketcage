@@ -1,0 +1,7 @@
+{
+  "name": "cricketcage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
